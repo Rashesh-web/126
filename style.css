@@ -13,8 +13,7 @@ body{
 }
 
 canvas{
-    border: 5px,solid,blue;
-    box-shadow: 5px 5px 10px greenyellow;
-    margin: auto;
-    padding: auto;
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 45px;
 }
